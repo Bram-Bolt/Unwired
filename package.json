@@ -1,0 +1,21 @@
+{
+  "name": "Unwired",
+  "version": "1.0.0",
+  "description": "Uncrowned Custom Bot",
+  "main": "index.js",
+  "author": "Chappie#1852",
+  "homepage": "https://github.com/Chaplingund/dominion",
+  "repository": "github:Chaplingund/dominion",
+  "engines": {
+    "node": ">=15.5.0"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment-timezone": "^0.5.33",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

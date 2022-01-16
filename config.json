@@ -1,0 +1,26 @@
+{
+
+  "prefix": "!",
+  "serverNaam": "Uncrowned",
+
+  "logChannel": "807198239555452928",
+  "welkomChannel": "802667304634023966",
+  "ideaChannel": "803362609499340831",
+  "memeChannel": "802667822407745536",
+
+  "upvoteEmoji": "803286257702404116",
+  "downvoteEmoji": "803286257324785675",
+
+  "mainRole": "802683889175887874",
+  "muteRole": "802684577004257311",
+  "callRole": "807197520333111297",
+
+  "color": "#febd2f",
+  "mainIcon": "https://i.imgur.com/hep9cNx.png",
+  "pingIcon": "https://i.imgur.com/ZViIamt.png",
+  "helpIcon": "https://i.imgur.com/CvZOFBA.png",
+  "linksIcon": "https://i.imgur.com/YhaYUeQ.png",
+
+  "hotel": "trivago"
+
+}
